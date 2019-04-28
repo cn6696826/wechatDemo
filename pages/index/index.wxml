@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='top-local'>
+    <view class='image'>
+      <image src='../../static/images/hotal.jpg'></image>
+    </view>
+    
+    <view class='more-store'>
+      <icon class="iconfont icon-shuaxin" size='23' color='#fff'></icon>
+      <text>更多门店</text>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,32 @@
+/**index.wxss**/
+.top-local{
+  width: 100%;
+  position: relative;
+}
+.top-local .image{
+  
+  width: 100%;
+  padding: 10px;
+}
+.top-local .image image{
+  height: 150px;
+  width: calc(100% - 20px);
+}
+.more-store{
+
+  width: 170px;
+  height: 70px;
+  background-color:rgba(75, 69, 69, 0.7);
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  /* opacity: 0.5; */
+  border-radius: 15% 0 0 15%;
+  position: absolute;
+  right: 10px;
+  top: 30px;
+
+}
+.icon-shuaxin{
+  color: #fff;
+}
