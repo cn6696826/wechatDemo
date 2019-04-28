@@ -10,4 +10,5 @@
       <text>更多门店</text>
     </view>
   </view>
+  <view class='blockline'></view>
 </view>
